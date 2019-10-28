@@ -1,3 +1,5 @@
 DatingApp.API/appsettings.json
 .vscode/launch.json
 .vscode/tasks.json
+DatingApp.API/DatingApp.API.csproj
+DatingApp.API/appsettings.Development.json
